@@ -1,6 +1,6 @@
-# INREV Guidelines and Standards
+# Industry Guidelines and Standards
 
-This repository contains INREV (European Association for Investors in Non-Listed Real Estate Vehicles) guidelines and standards documentation.
+This repository contains industry guidelines and standards documentation for testing documentation generators.
 
 ## Contents
 
@@ -8,8 +8,4 @@ This repository contains INREV (European Association for Investors in Non-Listed
 - Performance Measurement Guidelines  
 - Fee and Expense Metrics Guidelines
 - Standard Data Delivery Sheet (SDDS) User Manual
-- Comparison with NCREIF PREA Reporting Standards
-
-## About INREV
-
-INREV provides guidelines for non-listed real estate vehicles for institutional investors.
+- Reporting Standards Comparison
